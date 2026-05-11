@@ -42,11 +42,18 @@
 
 -app đang chạy:
 
-  <img width="1920" height="143" alt="image" src="https://github.com/user-attachments/assets/b9dcbbf0-afed-4ff2-871e-7a3cf1d678e9" />
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/5b0bb48f-569c-4a4d-a087-ee05c12b8856" />
+
+
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/0fda2530-df3b-400a-b94d-a4e59484c7b6" />
 
   Kết quả:
 
-  <img width="590" height="124" alt="image" src="https://github.com/user-attachments/assets/6bf72f16-995b-4616-9e04-77a428a8963f" />
+<img width="980" height="433" alt="image" src="https://github.com/user-attachments/assets/7b75b9ad-f9af-44c8-8205-5c18f01d26e5" />
+
+
+
+
 
 
 
