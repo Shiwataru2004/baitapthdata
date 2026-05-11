@@ -49,8 +49,14 @@
 
   Kết quả:
 
-<img width="980" height="433" alt="image" src="https://github.com/user-attachments/assets/7b75b9ad-f9af-44c8-8205-5c18f01d26e5" />
+  Pyspark:
+  
+  <img width="890" height="1040" alt="image" src="https://github.com/user-attachments/assets/c06a79f2-70f6-4d7e-bfb4-8fbfef585b13" />
 
+
+  Pandas:
+
+  <img width="1075" height="727" alt="image" src="https://github.com/user-attachments/assets/874f3701-560d-48f2-a399-3ea8669e9797" />
 
 
 
