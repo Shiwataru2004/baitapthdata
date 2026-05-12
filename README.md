@@ -1,4 +1,5 @@
 # baitapthdata
+https://youtu.be/8nnJopduLms?si=n80lg2vZyYdmLSuc
 
 -Cài đặt các máy ảo gồm máy chủ + 2 worker + kết nối mạng:
 
